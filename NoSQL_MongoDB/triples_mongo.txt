@@ -1,0 +1,5 @@
+Ishani,hasgender,female
+Messi,is,g.o.a.t
+Yami_Sukehiro,isleaderof,Black_Bulls
+Luffy,isleaderof,Strawhatpirates
+Dhoni,livesin,Jharkhand

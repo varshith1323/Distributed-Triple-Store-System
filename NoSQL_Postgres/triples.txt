@@ -1,0 +1,5 @@
+Vamsi,hasgender,male
+Subject,is,Object
+Sunak,isleaderof,UK
+Putin,isleaderof,Russia
+Subham,livesin,Bengaluru

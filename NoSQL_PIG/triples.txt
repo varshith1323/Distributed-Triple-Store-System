@@ -1,0 +1,5 @@
+Nimish,hasgender,male
+Subject,is,Object
+Biden,isleaderof,America
+Modi,isleaderof,India
+Garvit,livesin ,Chandigarh
